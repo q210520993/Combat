@@ -1,2 +1,1 @@
-# Combat
-JavaScript about Minecraft
+写的一坨的菜鸟一枚喵。
